@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Legal Fees</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="selling_price">Selling Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="first_time">First time buyer</string>
+    <string name="legal_fees">Legal Fees</string>
+    <string name="stamp_duty">Stamp Duty</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="contact_us">Contact us at 03-4582 7788</string>
+</resources>
